@@ -1,1 +1,5 @@
 package firstlect
+
+func main() {
+
+}
